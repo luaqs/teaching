@@ -1,0 +1,14 @@
+name: HelloWorld
+author: Luaq
+version: 1.0
+main: zone.luaq.helloworld.HelloWorld
+
+commands:
+    hello:
+        usage: /hello
+        permission: perm.command.hello
+        permission-message: You do not have permission!
+
+permissions:
+    perm.command.hello:
+        default: op
