@@ -4,6 +4,7 @@ Hello! I am Luaq. I am here teaching my friend to develop Minecraft Bukkit Plugi
 
 ## Projects So Far
  - Hello World
+ - Multiple Commands and Events
 
 ## Teachers
 People that have helped teach iiSpaze learn so far.
