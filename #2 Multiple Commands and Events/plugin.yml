@@ -1,0 +1,10 @@
+name: MultiCmds-and-Events
+author: Luaq
+version: 1.0
+main: zone.luaq.multi.Multi
+
+commands:
+    command1:
+        usage: /command1
+    command2:
+        usage: /command2
